@@ -1,4 +1,4 @@
-### Opa! eu sou o Gabriel
+### Opa! eu sou o Gabriel, profissional e estudante na area de desenvolvimento, busco sempre em aprender novas tecnologias.
 
 - 📝 Hoje trabalho com Back-end
 - 📚 Estudando C# e ASP.Net
