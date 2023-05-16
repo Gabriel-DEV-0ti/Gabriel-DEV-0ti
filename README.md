@@ -1,8 +1,9 @@
-### Opa! eu sou o Gabriel, profissional e estudante na area de desenvolvimento, busco sempre em aprender novas tecnologias.
+### Opa! eu sou o Gabriel, profissional e estudante na area de desenvolvimento e Segurança da Informação, busco sempre em aprender novas tecnologias.
 
 - 📝 Hoje trabalho com Back-end
 - 📚 Estudando C# e ASP.Net
 - 📚 Estudando HTML, CSS e JavaScript
+- 📚 Estudando Cybersecurity
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
