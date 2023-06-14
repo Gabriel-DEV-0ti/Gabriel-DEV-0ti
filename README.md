@@ -1,4 +1,4 @@
-### Opa! eu sou o Gabriel, profissional e estudante na area de desenvolvimento e Segurança da Informação, busco sempre em aprender novas tecnologias.
+### Opa! eu sou o Gabriel, profissional e estudante na area de Desenvolvimento de Software e Segurança da Informação, busco sempre em aprender novas tecnologias.
 
 - 📝 Hoje trabalho com Back-end
 - 📚 Estudando C# e ASP.Net
