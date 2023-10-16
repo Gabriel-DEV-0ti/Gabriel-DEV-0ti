@@ -1,6 +1,6 @@
-### Opa! eu sou o Gabriel, profissional e estudante na area de Desenvolvimento de Software como JavaScript Developer, busco sempre em aprender novas tecnologias.
+### Opa! me chamo Gabriel, sou um JavaScript Developer, busco sempre em aprender novas tecnologias para me adaptar ao mercado.
 
-- 📚 Estudando Front-end
+- 📚 Estudando e trabalhando com Front-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
