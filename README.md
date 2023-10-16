@@ -8,6 +8,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://devicons.railway.app/i/react.svg">
+  <img align="center" alt="Node.JS" height="30" width="40" src="https://devicons.railway.app/i/nodejs.svg"
   
 </div>
 
