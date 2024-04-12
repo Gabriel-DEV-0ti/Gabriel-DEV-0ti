@@ -1,6 +1,6 @@
 ### Opa! me chamo Gabriel, sou um Software Developer, busco sempre em aprender novas tecnologias para me adaptar ao mercado.
 
-- 📚 Estudando e trabalhando com Banc-end
+- 📚 Estudando e trabalhando com Back-end
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
