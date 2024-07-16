@@ -8,6 +8,8 @@
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
   <img align="center" alt="Oracle" height="30" width="40" src="https://devicon-website.vercel.app/api/oracle/original.svg">
+  <img align="center" alt="Sql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg">
 </div>
 
 ##
