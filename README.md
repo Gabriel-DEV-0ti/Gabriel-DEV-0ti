@@ -3,11 +3,11 @@
 - 📚 Estudando e trabalhando com Back-end
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
+   <img align="center" alt="Sql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
   <img align="center" alt=".Net" height="30" width="40" src="https://devicon-website.vercel.app/api/dotnetcore/original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
   <img align="center" alt="Oracle" height="40" width="50" src="https://devicon-website.vercel.app/api/oracle/original.svg">
-  <img align="center" alt="Sql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg">
 </div>
 
