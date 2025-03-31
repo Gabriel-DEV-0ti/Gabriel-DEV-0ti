@@ -1,4 +1,8 @@
-### Opa! me chamo Gabriel, sou um Software Developer, busco sempre em aprender novas tecnologias para me adaptar ao mercado.
+### Helo Word!!
+
+##
+
+### Me chamo Gabriel, sou um Software Developer, busco sempre em aprender novas tecnologias para me adaptar ao mercado.
 
 - 📚 Estudando e trabalhando com Back-end
 
