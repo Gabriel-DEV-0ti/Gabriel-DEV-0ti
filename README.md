@@ -1,50 +1,74 @@
-### Helo Word!!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=5000&pause=300&color=39D353&center=true&vCenter=true&width=900&height=60&lines=%3E+Hello,+World!" alt="Apresentação animada em   estilo terminal" />
+</div>  
 
-##Olá, eu sou o Gabriel! 👋
-**#Desenvolvedor & Engenheiro de Dados em Formação | Especialista em Bancos Relacionais**
+### Olá, eu sou o Gabriel! 👋
+**Desenvolvedor & Engenheiro de Dados em Formação**
 
-Sou apaixonado por transformar dados brutos em informações estruturadas e eficientes. Tenho uma base técnica sólida em bancos de dados relacionais, otimização de queries SQL e manutenção de sistemas, e atualmente estou aprofundando meus estudos na construção de pipelines e arquiteturas de Engenharia de Dados.
+Atualmente, estou em transição para a área de dados, estudando ativamente para me tornar Engenheiro de Dados.
 
-Gosto de priorizar a qualidade, a eficiência e o desempenho na resolução de problemas, seja otimizando uma consulta complexa ou projetando um novo fluxo de dados.
+Para complementar essa jornada e expandir minha visão técnica, estou cursando uma pós-graduação em AI Engineering, unindo a construção de pipelines robustos com o potencial da IA. Gosto de priorizar a qualidade, a eficiência e o desempenho na resolução de problemas, seja refatorando uma consulta complexa ou projetando um novo fluxo de dados do zero.
 
 ---
 
 ### 🚀 O que estou fazendo agora
-- 🏗️ Construindo pipelines de dados e estudando arquiteturas modernas.
-- 🌐 Desenvolvendo meu site/portfólio pessoal para documentar e exibir meus projetos de dados e diagramas de arquitetura.
-- 💡 Buscando oportunidades e desafios envolvendo Administração de Banco de Dados, ERPs e Engenharia de Dados.
+- 🏗️ Estudando Engenharia de Dados e construindo pipelines ponta a ponta (ETL/ELT) e arquiteturas modernas.
+- 🧠 Cursando especialização/pós-graduação em AI Engineering (IA).
+- 🌐 Desenvolvendo meu site/portfólio pessoal para documentar decisões de arquitetura e exibir meus projetos de dados.
+- 💡 Buscando oportunidades para consolidar minha migração de carreira atuando como Engenheiro de Dados ou Administrador de Banco de Dados.
 
 ---
 
-**Bancos de Dados:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="MySql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
-  <imga lign="center" alt="MySql" height="30" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg"></img>
-  <img align="center" alt="MySql" height="30" width="40"src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
-  <img align="center" alt="Oracle" height="40" width="50" src="https://devicon-website.vercel.app/api/oracle/original.svg">
-    
-</div>
+### 🛠️ Minhas Habilidades e Ferramentas
 
-**Linguagens & Desenvolvimento:**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
-  <img align="center" alt="Pandas" height="30" width="40" src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg">+
-  <img align="center" alt="Pandas" height="30" width="40" src="">
-</div>
+**Linguagens de Desenvolvimento:**
+<br>
 
-**Ferramentas**
-<div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
-  <img align="center" alt="Sql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
-  <img align="center" alt="C#" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
-  <img align="center" alt=".Net" height="30" width="40" src="https://devicon-website.vercel.app/api/dotnetcore/original.svg">
-  <img align="center" alt="Oracle" height="40" width="50" src="https://devicon-website.vercel.app/api/oracle/original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/plain-wordmark.svg">
-</div>
+<img align="center" alt="Python" title="Python" src="https://skillicons.dev/icons?i=py" />&nbsp;&nbsp;
+<img align="center" alt="Java" title="Java" src="https://skillicons.dev/icons?i=java" />&nbsp;&nbsp;
+<br><br>
+
+**Bancos de Dados & Linguagens de Dados:**
+<br>
+
+<img align="center" alt="MySql" title="MySql" src="https://skillicons.dev/icons?i=mysql" />&nbsp;&nbsp;
+<img align="center" alt="SQL Server" title="SQL Server" title="SQL Server" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+<br><br>
+
+**Frameworks e Bibliotecas:**
+<br>
+
+<img align="center" alt="Pandas" title="Pandas" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
+<img align="center" alt="Polars" title="Polars" height="48" src="https://cdn.simpleicons.org/polars/CD792C" />&nbsp;&nbsp;
+<img align="center" alt="PySpark" title="PySpark" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" />&nbsp;&nbsp;
+<img align="center" alt="Requests" title="Requests" height="48" src="https://cdn.simpleicons.org/pypi/3775A9" />
+<br><br>
+
+**Ferramentas de Dados:**
+<br>
+
+<img align="center" title="Docker" src="https://skillicons.dev/icons?i=docker" />&nbsp;&nbsp;
+<img align="center" title="Kafka" src="https://skillicons.dev/icons?i=kafka" />&nbsp;&nbsp;
+<img align="center" title="Terraform" src="https://skillicons.dev/icons?i=terraform" />&nbsp;&nbsp;
+<img align="center" alt="dbt" title="dbt" height="48" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/dbt.svg" />&nbsp;&nbsp;
+<img align="center" alt="Apache Airflow" title="Apache Airflow" height="48" src="https://cdn.simpleicons.org/apacheairflow/017CEE" />
+<br><br>
+
+**Ferramentas para Repositório:**
+<br>
+
+<img align="center" title="Git" src="https://skillicons.dev/icons?i=git" />&nbsp;&nbsp;
+<img align="center" title="GitHub" src="https://skillicons.dev/icons?i=github" />
+<br><br>
+
+**Cloud (Nuvem e Data Warehouses):**
+<br>
+
+<img align="center" title="AWS" src="https://skillicons.dev/icons?i=aws" />&nbsp;&nbsp;
+<img align="center" title="Azure" src="https://skillicons.dev/icons?i=azure" />
 
 ##
-
+### 📫 Contatos
 <div> 
   <a href = "mailto:gabriel.souza.0ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-de-souza-nunes-7296291a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
