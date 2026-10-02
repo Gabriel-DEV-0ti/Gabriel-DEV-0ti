@@ -1,6 +1,7 @@
 ### Helo Word!!
 
-**Desenvolvedor & Engenheiro de Dados em Formação | Especialista em Bancos Relacionais**
+##Olá, eu sou o Gabriel! 👋
+**#Desenvolvedor & Engenheiro de Dados em Formação | Especialista em Bancos Relacionais**
 
 Sou apaixonado por transformar dados brutos em informações estruturadas e eficientes. Tenho uma base técnica sólida em bancos de dados relacionais, otimização de queries SQL e manutenção de sistemas, e atualmente estou aprofundando meus estudos na construção de pipelines e arquiteturas de Engenharia de Dados.
 
@@ -15,22 +16,27 @@ Gosto de priorizar a qualidade, a eficiência e o desempenho na resolução de p
 
 ---
 
-**Bancos de Dados & Dados:**
-![SQL](https://img.shields.io/badge/SQL-Informational?style=flat&logo=postgresql&logoColor=white&color=336791)
-![Oracle](https://img.shields.io/badge/Oracle-Informational?style=flat&logo=oracle&logoColor=white&color=F80000)
-![SQL Server](https://img.shields.io/badge/SQL_Server-Informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=CC2927)
-![Data Engineering](https://img.shields.io/badge/Data_Engineering-Informational?style=flat&color=005571)
+**Bancos de Dados:**
+<div style="display: inline_block"><br>
+  <img align="center" alt="MySql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
+  <imga lign="center" alt="MySql" height="30" width="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg"></img>
+  <img align="center" alt="MySql" height="30" width="40"src="https://devicon-website.vercel.app/api/mysql/original-wordmark.svg"></img>
+  <img align="center" alt="Oracle" height="40" width="50" src="https://devicon-website.vercel.app/api/oracle/original.svg">
+    
+</div>
 
 **Linguagens & Desenvolvimento:**
-![Python](https://img.shields.io/badge/Python-Informational?style=flat&logo=python&logoColor=white&color=3776AB)
-![Web Dev](https://img.shields.io/badge/Web_Development-Informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://devicon-website.vercel.app/api/python/original-wordmark.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
+  <img align="center" alt="Pandas" height="30" width="40" src="https://devicon-website.vercel.app/api/pandas/original-wordmark.svg">+
+  <img align="center" alt="Pandas" height="30" width="40" src="">
+</div>
 
-
-**Ferramentas
-
+**Ferramentas**
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
-   <img align="center" alt="Sql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
+  <img align="center" alt="Sql" height="30" width="40" src="https://devicons.railway.app/i/mysql.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://devicon-website.vercel.app/api/csharp/original.svg">
   <img align="center" alt=".Net" height="30" width="40" src="https://devicon-website.vercel.app/api/dotnetcore/original.svg">
   <img align="center" alt="Oracle" height="40" width="50" src="https://devicon-website.vercel.app/api/oracle/original.svg">
