@@ -3,7 +3,7 @@
 </div>  
 
 ### Olá, eu sou o Gabriel! 👋
-**Data Engineer • Software Analyst**
+**Data Engineer • Software Analyst • AI Engineer**
 
 Atualmente, estou em transição para a área de dados, estudando ativamente para me tornar Engenheiro de Dados.
 
