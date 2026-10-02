@@ -3,7 +3,7 @@
 </div>  
 
 ### Olá, eu sou o Gabriel! 👋
-**Desenvolvedor & Engenheiro de Dados em Formação**
+**Data Engineer • Software Analyst
 
 Atualmente, estou em transição para a área de dados, estudando ativamente para me tornar Engenheiro de Dados.
 
